@@ -1,5 +1,5 @@
 # RUET-ChatBot
-It's a PHP, MySQL, Jquery ChatBot For My University RUET
+It's a PHP, MySQL, Jquery ChatBot 
 
 # Demo
 
